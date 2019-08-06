@@ -1,3 +1,5 @@
-function divisao(e, f){
-    return e/f;
+let teste = 2;
+
+imprimir = ()=>{
+    console.log(teste);
 }
